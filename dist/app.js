@@ -1,4 +1,5 @@
 // Repo: tracalorieProject
+// Description: Using the Module Pattern and only Vanilla JavaScript
 
 // ---- Storage controller ----
 const StorageCtrl = (function() {
